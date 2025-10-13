@@ -6,7 +6,7 @@
 
 ```bash
 # 1. Скопірувати репозиторий
-git clone https://github.com/m-zagornyak/Practik-number-5/
+gh repo clone m-zagornyak/Practik-number-5
 
 # 2. Перейти в папку проекта
 cd project-name
